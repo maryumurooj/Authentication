@@ -51,11 +51,9 @@ const Landing = () => {
           <span>J</span>
         </h1>
         <div className={styles.partyBadge}>:)</div>
+        
         <p className={styles.subtitle}>
-          THE FLOW PARTY IS A SAFE, INCLUSIVE, AND FUN SPACE FOR WEBSITE DEVELOPERS AND DESIGNERS. 
-        </p>
-        <p className={styles.subtitle}>
-          It's just a simple Login and Signup Page made with React, Dotnet and SQL :)
+          It's a simple Login and Signup Page made with React, Dotnet and SQL :)
         </p>
        
       </div>
